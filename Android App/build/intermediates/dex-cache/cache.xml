@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/anildeshpande/.android/build-cache/53fc026bec34733194dbdbd527e8ffbe2fab91e6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/Users/anildeshpande/Desktop/MyApplication/app/build/intermediates/pre-dexed/debug/classes_9fe09aa223d54c99ff2ad943ff097a078a9ef34b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anildeshpande/.android/build-cache/3ce3cb003fd29534886bf16283db54fa7e413ce9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/anildeshpande/Desktop/MyApplication/app/build/intermediates/pre-dexed/debug/classes_744ba0472f9bb62ada288ef43523e19131f2d9e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anildeshpande/.android/build-cache/a4c29125eb8cbd95cd736251bd5fd9642bec5764/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/anildeshpande/Desktop/MyApplication/app/build/intermediates/pre-dexed/debug/classes_b7f766ad1f5dcfe565ed89cdd799542a05880705.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anildeshpande/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/anildeshpande/Desktop/MyApplication/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_af7530100355b6885cdf61755754575b426434c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anildeshpande/.android/build-cache/b53f87ed48a150062072a2f9178daf91577e373a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/anildeshpande/Desktop/MyApplication/app/build/intermediates/pre-dexed/debug/classes_f369639134d04ef655a066becd47b42ea1ae84af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anildeshpande/.android/build-cache/6fbad354443bdda86f45fdf4d1f669836b55b08c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/anildeshpande/Desktop/MyApplication/app/build/intermediates/pre-dexed/debug/classes_44d9c1327b6f0334fb61f65cd91b0973b9031e41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anildeshpande/.android/build-cache/0bebc95ad408a2e0179db41d8fcb7ab7599c4077/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/anildeshpande/Desktop/MyApplication/app/build/intermediates/pre-dexed/debug/classes_7e993c258194918fb7668efcbf5e469024de75d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anildeshpande/.android/build-cache/9080b21eb6acb2d1419d5f9f5e92c52c13bfe774/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/anildeshpande/Desktop/MyApplication/app/build/intermediates/pre-dexed/debug/classes_fe6b8350ed814206629027d0a44c5e6352add7e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anildeshpande/.android/build-cache/e7a1e33d961c6b71696bba395308a9ed0754e5fb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/anildeshpande/Desktop/MyApplication/app/build/intermediates/pre-dexed/debug/classes_1481ba54881a4d7ddbbc6036382ce4548ca8d244.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anildeshpande/.android/build-cache/2e77189ed96682805f67530d982555b1cbd379a3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/anildeshpande/Desktop/MyApplication/app/build/intermediates/pre-dexed/debug/classes_9efe4a2c60b25aaf2fb28aedaa16d1014d6f5a71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anildeshpande/.android/build-cache/849060ebaf63fce06c7957a0f3ef929e33961af5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/anildeshpande/Desktop/MyApplication/app/build/intermediates/pre-dexed/debug/classes_3d6ee5fd8ddc51bde82c5686da4e7a1bcb9393a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anildeshpande/.android/build-cache/b8df362d68accb7e8c882f65da51953b98a51f2d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/anildeshpande/Desktop/MyApplication/app/build/intermediates/pre-dexed/debug/classes_e9bff3c13896871134770ac0b15b044bec6c6a27.jar" />
+    </item>
+
+</items>
